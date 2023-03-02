@@ -26,3 +26,7 @@ Added new calculation function
 
 ### readme file section 3
 readme file update
+
+### Refactoring
+Updating readme file for refactoring branch
+
