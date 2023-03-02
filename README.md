@@ -20,3 +20,6 @@ Imported new a python library
 
 ### New File
 Added new city data file
+
+### New Function
+Added new calculation function

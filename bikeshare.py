@@ -132,6 +132,11 @@ def time_stats(df):
 
     return df
 
+def calculate_amount(df):
+    a=5
+    b=3
+    return a + b
+
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
