@@ -23,3 +23,6 @@ Added new city data file
 
 ### New Function
 Added new calculation function
+
+### readme file section 3
+readme file update
