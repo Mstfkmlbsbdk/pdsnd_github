@@ -132,7 +132,7 @@ def time_stats(df):
 
     return df
 
-def calculate_amount(df):
+def calculate_amount(df): #sum two values
     a=5
     b=3
     return a + b
